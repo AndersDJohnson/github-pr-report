@@ -1,0 +1,22 @@
+{
+  "name": "github-pr-report",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.4.1",
+    "babel-preset-latest": "^6.24.0",
+    "babel-register": "^6.24.0",
+    "eslint-config-standard": "^7.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "webpack": "^2.2.1"
+  }
+}
